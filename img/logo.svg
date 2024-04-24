@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="200px" height="63px" viewBox="0 0 200 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>logo</title>
-    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="LEN" fill="#000000" fill-rule="nonzero">
-            <polygon id="路径" points="30.5102041 33.3837209 61.2244898 33.3837209 61.2244898 63 0 63 0 0 30.5102041 0"></polygon>
-            <polygon id="路径" points="69.3877551 63 69.3877551 0 99.8979592 0 99.8979592 21.3488372 115.204082 21.3488372 115.204082 41.127907 130.612245 41.127907 130.612245 63"></polygon>
-            <polygon id="路径" points="138.77551 63 200 63 200 0 169.387755 0 169.387755 31.6046512 138.77551 0.209302326"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="63" version="1.1" viewBox="0 0 200 63"><title>logo</title><g id="logo" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="LEN" fill="#000" fill-rule="nonzero"><polygon id="路径" points="30.51 33.384 61.224 33.384 61.224 63 0 63 0 0 30.51 0"/><polygon id="路径" points="69.388 63 69.388 0 99.898 0 99.898 21.349 115.204 21.349 115.204 41.128 130.612 41.128 130.612 63"/><polygon id="路径" points="138.776 63 200 63 200 0 169.388 0 169.388 31.605 138.776 .209"/></g></g></svg>
